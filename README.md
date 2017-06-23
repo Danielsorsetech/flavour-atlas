@@ -39,3 +39,7 @@ All contributions to this should be open. I want to help build a shared vocabula
 Lists to be accepted into this project will be licensed under Creative Commons Attribution-ShareAlike 4.0.
 The visualization code itself will be under the GNU Affero General Public License 3.
 
+# Note
+
+For the technically inclined, be prepared that I will rebase this repository often and hide all the stumbling around I did in my first JavaScript project, and while messing around with layouts of the directories.
+This won't look pretty for a while. You have been warned.
