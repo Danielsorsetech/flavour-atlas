@@ -1,0 +1,54 @@
+# A simple data set for use with chocolate tasting.
+# It's not meant to be complete yet, but some data
+# is useful for testing to have something to work
+# with at all and test potential metadata features.
+# Some may be broken out, or later reference other data sets.
+---
+name: Chocolate Tasting
+author: Lars Marowsky-Brée
+license: https://creativecommons.org/licenses/by-sa/4.0/
+language: en
+---
+- Tactile
+  - Texture
+    - Grainy
+    - Coarse
+    - Fine
+    - Smooth
+  - Mouthfeel
+    - Creamy
+    - Coating
+    - Cooling
+    - Astringent
+    - Warm
+  - Break
+    - Clean
+    - Bending
+    - Crystaline
+    - Fudgy
+- Taste
+  - Bitter
+  - Sweet
+  - Acidic
+  - Umami
+- Fruits
+  - Red
+    - Cherries
+    - Strawberries
+    - Red currants
+  - Exotic
+    - Pineapple
+    - Passion fruit
+  - Citrus
+    - Lemon
+    - Bergamot
+    - Orange
+- Dark
+  - Chocolate
+  - Coffee
+  - Earthy
+  - Tobacco
+- Chemical
+  - Turpentine
+  - Petrol
+---
