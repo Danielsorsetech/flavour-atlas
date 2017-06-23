@@ -2,7 +2,7 @@ google.charts.load('current', {'packages':['treemap']});
       google.charts.setOnLoadCallback(drawChart);
 
         function drawChart(){
-          var query = new google.visualization.Query("https://docs.google.com/spreadsheets/d/1xt4Y4mLEnN_tiuGoLYwcKE_YyUyQ35RcPysZ5DTn2DE/");
+          var query = new google.visualization.Query("https://docs.google.com/spreadsheets/d/1xt4Y4mLEnN_tiuGoLYwcKE_YyUyQ35RcPysZ5DTn2DE/gviz/tq");
           query.send(handleQueryResponse);
         }
 
