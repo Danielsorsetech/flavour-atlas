@@ -5,7 +5,7 @@
 
 <div id="chart_div" style="width: 900px; height: 500px;"></div>
 
-<script type="text/javascript">
+<script type="text/javascript">//<!CDATA[
 google.charts.load('current', {'packages':['treemap']});
       google.charts.setOnLoadCallback(drawChart);
       function drawChart() {
@@ -56,5 +56,6 @@ google.charts.load('current', {'packages':['treemap']});
         });
 
       }
+//]]>
 </script>
   
