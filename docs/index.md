@@ -1,5 +1,8 @@
 ---
+layout: post
 title: hello world with jekyll
+jsarr:
+- test.js
 ---
 
 # Hello world
